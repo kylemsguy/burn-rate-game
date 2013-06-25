@@ -1,0 +1,28 @@
+List of card types:
+Defensive:
+Offensive:
+
+Poach (HR: Take an employee form an opponent; VPs require 2 cards)
+Release (Development: Remove one BAD IDEA from your company.)
+Funding (Finance: Add the value to your bank account.)
+Bad Hire (Opponent takes an employee (your choice) from the labour pool.)
+Fire (HR: Return one of your employees to the labour pool. VPs require 2 cards)
+Hire (Take an employee from the labour pool)
+Special (VPs)
+Bad Idea
+
+List of Special Cards:
+Conflict of Opinion (2 VPs: Return 1 of opponent's VPs (your choice) to the labour pool)
+New Business Plan (3 VPs: Opponent must pay double his or her burn rate next turn.)
+Out to Pasture (3 VPs: Return 1 of opponents VPs (your choice) to the labour pool)
+
+List of Bad Ideas:
+Skill level 0:
+	Bicycle Delivery Service; 4
+	Make Postage Stamps Online; 1
+	
+Skill level 0,1:
+	Free Internet Access; 1
+	Group Discount Auctions; 2
+	
+...and many more
