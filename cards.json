@@ -1,0 +1,644 @@
+{
+    "staff": {
+        "Development": {
+            "vps": [
+                {
+                    "skill": 2,
+                    "name": "Sally Hartwell",
+                    "salary": 2,
+                },
+                {
+                    "skill": 0,
+                    "name": "Bob Headstein",
+                    "salary": 2
+                },
+                {
+                    "skill": 3,
+                    "name": "Niles Wheatly",
+                    "salary": 2
+                },
+            ],
+            "managers": [
+                {
+                    "skill": 1,
+                    "name": "Carrie Becker",
+                    "salary": 1,
+                },
+                {
+                    "skill": 1,
+                    "name": "Lawrence Smythe",
+                    "salary": 1,
+                },
+                {
+                    "skill": 1,
+                    "name": "Lance Slocum",
+                    "salary": 1,
+                }
+            ],
+            "engineers": [
+                {
+                    "skill": 0,
+                    "name": "Bert Windage",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Julie Malone",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Carl Versace",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Gary Nasser",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Smedley Wilson",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Casey Close",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Morton Baker",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Harry Chin",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Tony Fuji",
+                    "salary": 1
+                },
+                {
+                    "skill": 0,
+                    "name": "Ed Syljik",
+                    "salary": 1
+                }
+            ],
+        },
+        "Finance": {
+            "vps": [
+                {
+                    "skill": 2,
+                    "name": "Michael DeBeers",
+                    "salary": 2
+                },
+                {
+                    "skill": 2,
+                    "name": "Shannon Tyrell",
+                    "salary": 2
+                },
+                {
+                    "skill": 3,
+                    "name": "Ben Zhao",
+                    "salary": 2
+                }
+            ],
+            "managers": [
+                {
+                    "skill": 1,
+                    "name": "Mary DeLany",
+                    "salary": 1
+                },
+                {
+                    "skill": 1,
+                    "name": "Annette Chung",
+                    "salary": 1
+                },
+                {
+                    "skill": 1,
+                    "name": "Hans Welch",
+                    "salary": 1
+                },
+                {
+                    "skill": 1,
+                    "name": "Sam Winters",
+                    "salary": 1
+                }
+            ]
+        },
+        "Sales": {
+            "vps": [
+                {
+                    "skill": 1,
+                    "name": "Brad Duke",
+                    "salary": 2
+                },
+                {
+                    "skill": 1,
+                    "name": "Vern Slick",
+                    "salary": 2
+                }
+            ],
+            "managers": [
+                {
+                    "skill": 1,
+                    "name": "Andrew Chung",
+                    "salary": 1
+                },
+                {
+                    "skill": 2,
+                    "name": "Charles Jackson",
+                    "salary": 1
+                },
+                {
+                    "skill": 1,
+                    "name": "Martha Thule",
+                    "salary": 1
+                },
+                {
+                    "skill": 2,
+                    "name": "Grant Stone",
+                    "salary": 1
+                }
+            ]
+        },
+        "Human Resources": {
+            "vps": [
+                {
+                    "skill": 3,
+                    "name": "Lacy Labonte",
+                    "salary": 2
+                },
+                {
+                    "skill": 2,
+                    "name": "James Feasel",
+                    "salary": 2
+                },
+                {
+                    "skill": 2,
+                    "name": "Georgia Gordon",
+                    "salary": 2
+                }
+            ],
+            "managers": [
+                {
+                    "skill": 1,
+                    "name": "Joel Jones",
+                    "salary": 1
+                },
+                {
+                    "skill": 1,
+                    "name": "Barbara McNerny",
+                    "salary": 1
+                },
+                {
+                    "skill": 2,
+                    "name": "Martin Able",
+                    "salary": 1
+                },
+                {
+                    "skill": 1,
+                    "name": "Chuck DeGaul",
+                    "salary": 1
+                },
+                {
+                    "skill": 1,
+                    "name": "Brenda Swift",
+                    "salary": 1
+                },
+            ]
+        }
+    },
+    "attack": {
+        "badidea": {
+            "department": "Sales",
+            "cards": [
+                {
+                    "max_skill": 2,
+                    "engineer_cost": 2,
+                    "description": "Online Pet Store"
+                },
+                {
+                    "max_skill": 1,
+                    "engineer_cost": 1,
+                    "description": "Online Sporting Goods Store"
+                },
+                {
+                    "max_skill": 2,
+                    "engineer_cost": 1,
+                    "description": "A Surgeon's General Medical Advice"
+                },
+                {
+                    "max_skill": 3,
+                    "engineer_cost": 1,
+                    "description": "Butler-Hosted Search Portal"
+                },
+                {
+                    "max_skill": 0,
+                    "engineer_cost": 2,
+                    "description": "Handheld URL Scanner"
+                },
+                {
+                    "max_skill": 0,
+                    "engineer_cost": 1,
+                    "description": "Make Postage Stamps Online"
+                },
+                {
+                    "max_skill": 1,
+                    "engineer_cost": 1,
+                    "description": "Free Internet Access"
+                },
+                {
+                    "max_skill": 3,
+                    "engineer_cost": 2,
+                    "description": "Online Ad Server"
+                },
+                {
+                    "max_skill": 1,
+                    "engineer_cost": 2,
+                    "description": "Personal Servants"
+                },
+                {
+                    "max_skill": 2,
+                    "engineer_cost": 2,
+                    "description": "Free Computers"
+                },
+                {
+                    "max_skill": 0,
+                    "engineer_cost": 2,
+                    "description": "Online Computer Store"
+                },
+                {
+                    "max_skill": 0,
+                    "engineer_cost": 4,
+                    "description": "Bicycle Delivery Service"
+                },
+                {
+                    "max_skill": 3,
+                    "engineer_cost": 2,
+                    "description": "Online Privacy Protection"
+                },
+                {
+                    "max_skill": 3,
+                    "engineer_cost": 1,
+                    "description": "Electronic Wallet"
+                },
+                {
+                    "max_skill": 2,
+                    "engineer_cost": 3,
+                    "description": "Free Music"
+                },
+                {
+                    "max_skill": 1,
+                    "engineer_cost": 1,
+                    "description": "Internet Money"
+                },
+                {
+                    "max_skill": 2,
+                    "engineer_cost": 1,
+                    "description": "Online Women's Community"
+                },
+                {
+                    "max_skill": 1,
+                    "engineer_cost": 3,
+                    "description": "Name-Your-Price Auctions"
+                },
+                {
+                    "max_skill": 1,
+                    "engineer_cost": 2,
+                    "description": "Group Discount Auctions"
+                },
+                {
+                    "max_skill": 0,
+                    "engineer_cost": 3,
+                    "description": "Online Grocery Store"
+                },
+                {
+                    "max_skill": 0,
+                    "engineer_cost": 1,
+                    "description": "Dot-Com Card Game"
+                }
+            ]
+        },
+        "badhire": {
+            "department": "Human Resources",
+            "cards": [
+                {
+                    "min_skill": 0,
+                    "max_skill": 2
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 1
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 3
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 3
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 2
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 1
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 0
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 1
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 2
+                },
+                {
+                    "min_skill": 0,
+                    "max_skill": 0
+                }
+            ]
+        },
+        "poach": {
+            "department": "Human Resources",
+            "cards": [
+                {
+                    "max_skill": 3
+                },
+                {
+                    "max_skill": 3
+                },
+                {
+                    "max_skill": 2
+                },
+                {
+                    "max_skill": 1
+                },
+                {
+                    "max_skill": 0
+                },
+                {
+                    "max_skill": 2
+                },
+                {
+                    "max_skill": 0
+                },
+                {
+                    "max_skill": 2
+                },
+                {
+                    "max_skill": 1
+                }
+            ]
+        },
+        "special": {
+            "cards": [
+                {
+                    "name": "Conflict of Opinion",
+                    "description": "Return 1 of opponent's VPs (your choice) to the labor pool.",
+                    "vps": 2
+                },
+                {
+                    "name": "New Business Plan",
+                    "description": "Opponent must pay double his or her burn rate next turn.",
+                    "vps": 3
+                },
+                {
+                    "name": "Out To Pasture",
+                    "description": "Return 1 of opponent's VPs (your choice) to the labor pool.",
+                    "vps": 3
+                }
+            ]
+        }
+    },
+    "defend": {
+        "hire": {
+            "department": "Human Resources",
+            "cards": [
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 2
+                },
+                {
+                    "min_skill": 2
+                },
+                {
+                    "min_skill": 3
+                },
+                {
+                    "min_skill": 3
+                }
+            ]
+        },
+        "fire": {
+            "department": "Human Resources",
+            "cards": [
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 2
+                },
+                {
+                    "min_skill": 2
+                },
+                {
+                    "min_skill": 3
+                },
+                {
+                    "min_skill": 3
+                }
+            ]
+        },
+        "funding": {
+            "department": "Finance",
+            "cards": [
+                {
+                    "min_skill": 2,
+                    "amount": 15
+                },
+                {
+                    "min_skill": 1,
+                    "amount": 5
+                },
+                {
+                    "min_skill": 1,
+                    "amount": 10
+                },
+                {
+                    "min_skill": 3,
+                    "amount": 15
+                },
+                {
+                    "min_skill": 1,
+                    "amount": 5
+                },
+                {
+                    "min_skill": 0,
+                    "amount": 5
+                },
+                {
+                    "min_skill": 2,
+                    "amount": 5
+                },
+                {
+                    "min_skill": 1,
+                    "amount": 5
+                },
+                {
+                    "min_skill": 0,
+                    "amount": 10
+                },
+                {
+                    "min_skill": 2,
+                    "amount": 10
+                },
+                {
+                    "min_skill": 3,
+                    "amount": 20
+                },
+                {
+                    "min_skill": 0,
+                    "amount": 5
+                },
+                {
+                    "min_skill": 0,
+                    "amount": 10
+                },
+                {
+                    "min_skill": 3,
+                    "amount": 10
+                },
+                {
+                    "min_skill": 0,
+                    "amount": 5
+                },
+                {
+                    "min_skill": 2,
+                    "amount": 5
+                },
+                {
+                    "min_skill": 1,
+                    "amount": 10
+                },
+                {
+                    "min_skill": 2,
+                    "amount": 10
+                }
+            ]
+        },
+        "release": {
+            "department": "Development",
+            "cards": [
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 0
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 1
+                },
+                {
+                    "min_skill": 2
+                },
+                {
+                    "min_skill": 2
+                },
+                {
+                    "min_skill": 2
+                },
+                {
+                    "min_skill": 3
+                },
+                {
+                    "min_skill": 3
+                },
+                {
+                    "min_skill": 3
+                }
+            ]
+        }
+    },
+    "special": [
+        {
+            "name": "Layoffs",
+            "description": "Fire any of your employees, but keep at least 2 VPs.",
+            "vps": 2
+        }
+    ]
+}
